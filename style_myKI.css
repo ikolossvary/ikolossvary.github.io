@@ -1,0 +1,145 @@
+/************************* ID's/pagelayout *************************/
+
+body {
+  background-color: #B3E7FA;
+}
+
+#wrapper {
+  position:relative;
+  width:870px;
+  padding: 20px 0 20px 20px;
+}
+
+#header {
+  width: 850px;
+  height: 125px;
+  padding-top: 0px;
+  background-color:#F79895;
+  outline: 4px inset #DDDDDD;
+  margin:30px 0 0px 0;
+}
+
+  #header img{
+    float: left;
+  }
+#header h1{
+    float: left;
+  }
+
+
+  #header ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+  }
+    
+  #header li a { 
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    font-size:18px;
+    letter-spacing:1px;
+    color: #000000;
+    background: #EEEEEE;
+    width: 100px;
+    height: 20px;
+    padding: 5px 0 5px 0;
+    margin-top:95px;
+    display: block;
+    line-height: 20px;
+  }
+                 
+  #header li a:hover { text-decoration: underline;
+                       background: #BBDDFF;}
+
+#content {
+  clear:both;
+  width:850px;
+  margin:25px 0 25px 0;
+  padding: 0px 0px 0px 0px;
+  outline: 4px solid #DDDDDD;
+  height:900px;
+  background-color:#ffcc66;
+}
+
+#navigation {
+  float: left;
+  width: 200px;
+  margin: 5px 5px 0 5px;
+  background-color: #33BEF2;
+}
+
+  #navigation ul {list-style: none; padding: 0 0 0 20px;}
+  #navigation li a { letter-spacing: 1px;
+                     text-align: center; font-size: 17px;
+                     text-decoration: none;
+                     color: #000000;
+                     background: #F15A55;
+                     margin: 10px;
+                     width: 140px;
+                     padding: 5px 0 5px 0;
+                     display: block;}
+  #navigation li a:hover { text-decoration: underline;
+                           background: #EEEEEE;}
+
+#text {
+  width:640px;float: left;
+  /*background-color:#ffcc66;*/
+}
+  #text hr{ clear:both;}
+
+
+#footer {
+  clear: both;
+  width: 850px;
+  padding: 0px 0 0 0px;/*top right bottom left*/
+  background-color: #F79895;
+  outline: 4px outset #DDDDDD;
+  height: 41px;
+}
+
+#bottom{
+  width: 890px;
+  padding:5px 5px 0px 5px;
+}
+
+  #bottom img,p{
+    float:left;
+  }
+
+
+/****************************************************************/
+
+h1 {
+  text-align: center;
+  letter-spacing:1px;
+  padding:0px 0 0 0px; 
+}
+
+p { line-height: 150%; }
+
+span.highlight {
+  background-color: #F15A55
+}
+
+table.orarend {
+      table-layout: fixed;
+      empty-cells: show;
+      caption-side: bottom;
+      border-style: ridge
+    }
+    th {
+      padding: 0.2cm;
+      border-style: groove
+    }
+    td {
+      padding: 0.15cm;
+      border-style: groove
+    }
+
+/*img.bme {
+      position: absolute;
+      top: 190px;
+      left: 600px
+      }*/
+
