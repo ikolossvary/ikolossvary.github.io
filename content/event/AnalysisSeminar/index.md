@@ -17,8 +17,8 @@ summary: Webpage for the Analysis Seminar at the Rényi Insitute
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: Thursdays '2024-02-29T10:00:00Z'
-date_end: '2024-02-29T13:00:00Z'
+date: Thursdays #'2024-02-29T10:00:00Z'
+#date_end: '2024-02-29T13:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -70,13 +70,13 @@ In the 60's, Furstenberg conjectured that if $X,Y \subset [0,1]$ are closed sets
 implies that $\log(p)/\log(q)$ is a rational number. Intuitively, if $\log(p)/\log(q)$ is irrational, then $X$ and $Y$ dissonate by which we mean that the expansions of $X$ and $Y$ in bases $p$ and $q$, respectively, have no common structure. A similar question can be asked for convolutions of two measures. In this talk, which is based on a recent work with B. Bárány, A. Pyörälä, and M. Wu, we answer whether two self-conformal measures in the real line resonate or dissonate.
 {{< /spoiler >}}
 
-- **September 26: **   
+- **September 26: TBA**   
 Title: *TBA*   
 {{< spoiler text="Abstract" >}}
 TBA
 {{< /spoiler >}}
 
-- **October 3: **   
+- **October 3: TBA**   
 Title: *TBA*   
 {{< spoiler text="Abstract" >}}
 TBA
