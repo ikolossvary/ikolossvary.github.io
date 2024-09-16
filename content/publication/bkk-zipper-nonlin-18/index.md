@@ -18,5 +18,7 @@ tags:
 links:
 - name: arXiv
   url: https://browse.arxiv.org/abs/1608.04558
+- name: zbMATH
+  url: https://zbmath.org/1392.28009
 url_poster: uploads/Eotvos_Poster_KI.pdf
 ---

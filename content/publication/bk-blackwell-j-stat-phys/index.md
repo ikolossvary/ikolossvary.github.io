@@ -17,4 +17,6 @@ tags:
 links:
 - name: pdf
   url: https://math.bme.hu/~balubs/cikkek/black_abscont_final.pdf
+- name: zbMATH
+  url: https://zbmath.org/1345.94024
 ---
