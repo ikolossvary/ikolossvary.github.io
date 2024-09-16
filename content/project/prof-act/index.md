@@ -48,28 +48,28 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 #### 2024
 
-- [Fractals and Hyperbolic Dynamical Systems](https://erdoscenter.renyi.hu/articles/fractals-and-hyperbolic-dynamical-systems-2024-fall-aug-dec), Fall 2024, Alfréd Rényi Institute of Mathematics.
-- [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University.
-- [CMI-HIMR Summer School on Symmetry and Randomness](https://web-eur.cvent.com/event/550de7a6-1ea9-40b2-945e-c596e9a536c0/summary), 15 - 19 July 2024, University of Bristol.
-- [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University.
+- [Fractals and Hyperbolic Dynamical Systems](https://erdoscenter.renyi.hu/articles/fractals-and-hyperbolic-dynamical-systems-2024-fall-aug-dec), Fall 2024, Alfréd Rényi Institute of Mathematics, HU.
+- [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University, DE.
+- [CMI-HIMR Summer School on Symmetry and Randomness](https://web-eur.cvent.com/event/550de7a6-1ea9-40b2-945e-c596e9a536c0/summary), 15 - 19 July 2024, University of Bristol, UK.
+- [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University, UK.
 {{< spoiler text="Talk" >}}
 Title: *Assouad spectrum of Gatzouras-Lalley carpets*.   
 Abstract: The talk will focus on the fine local scaling properties of a class of self-affine fractal sets called Gatzouras-Lalley carpets by looking at its Assouad spectrum. This is a one parameter family of dimensions that interpolate between the box and (quasi-)Assouad dimension of the set. We will show a formula for the Assouad spectrum of all Gatzouras-Lalley carpets obtained by taking the concave conjugate of an explicit piecewise-analytic function combined with a simple parameter change. Time permitting, we will demonstrate a number of novel properties that our formula exhibits for dynamically invariant sets and give some hints of the proof strategy. Based on joint work with A. Banaji, J.M. Fraser and A. Rutar.
 {{< /spoiler >}}
-- [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu.
+- [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu, FI.
 
 #### 2023
 
-- [One day ergodic theory meeting](https://warwick.ac.uk/fac/sci/maths/people/staff/richard_sharp/p1/ergodicnetwork/misc/22non2023/), 22 November, University of Warwick.
-- [Dynamics and asymptotics in algebra and number theory](https://www.math.uni-bielefeld.de/daan23/), 11-15 September, Bielefeld University.
-- [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University.
-- [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS.
+- [One day ergodic theory meeting](https://warwick.ac.uk/fac/sci/maths/people/staff/richard_sharp/p1/ergodicnetwork/misc/22non2023/), 22 November, University of Warwick, UK.
+- [Dynamics and asymptotics in algebra and number theory](https://www.math.uni-bielefeld.de/daan23/), 11-15 September, Bielefeld University, DE.
+- [Recent advances in ergodic theory and dynamics](https://www.lboro.ac.uk/departments/maths/events/2023/recent-advances-ergodic-theory/), 13-14 July, Loughborough University, UK.
+- [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), 3-7 July, ICMS, UK.
 {{< spoiler text="Talk" >}}
 Title: *The Assouad spectrum of Lalley-Gatzouras carpets*.   
 Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
 {{< /spoiler >}}
-- [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
-- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme); [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
+- [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM, FR.
+- [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme); [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo, PL.
 {{< spoiler text="Talk" >}}
 Title: *A variational principle for box counting quantities*.   
 Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
@@ -77,24 +77,24 @@ Abstract: The classical variational principle for topological pressure is an ess
 
 #### 2022
 
-- [Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), 5-9 September, Isle de Porquerolles.
+- [Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), 5-9 September, Isle de Porquerolles, FR.
 {{< spoiler text="Talk" >}}
 Title: *Various dimensions of self-affine measures on sponges*.   
 Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
 {{< /spoiler >}}
-- [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), 27 June - 1 July, Budapest University of Technology and Economics.
-- [Rényi 100](https://conferences.renyi.hu/renyi100), 20-23 June, Hungarian Academy of Sciences.
-- [7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), 4-8 June, Cornell University.
+- [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), 27 June - 1 July, Budapest University of Technology and Economics, HU.
+- [Rényi 100](https://conferences.renyi.hu/renyi100), 20-23 June, Hungarian Academy of Sciences, HU.
+- [7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), 4-8 June, Cornell University, US.
 {{< spoiler text="Talk" >}}
 Title: *On the Convergence Rate of the Chaos Game*.   
 Abstract: This talk will address the question: how long does it take for the orbit of the chaos game to reach a certain density inside the attractor of a strictly contracting IFS of which we only assume that its lower dimension is positive? We show that the rate of growth of this cover time is determined by the Minkowski dimension of the push-forward of the shift invariant measure with exponential decay of correlations driving the chaos game. As an application, for Bedford-McMullen carpets, we completely characterize the family of probability vectors that minimize the Minkowski dimension of Bernoulli measures. Based on joint work with B. Bárány and N. Jurga.
 {{< /spoiler >}}
-- [Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), 10-12 May, University of Bristol.
+- [Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), 10-12 May, University of Bristol, UK.
 {{< spoiler text="Talk" >}}
 Title: *The $L^q$ spectrum of self-affine measures on sponges*.   
 Abstract: In this talk we consider self-affine sponges in $R^d$ which satisfy a separation condition that gives a certain grid alignment to first level cylinder sets. On the plane these are precisely the Lalley-Gatzouras and Bara\'nski carpets. We show that the $L^q$ spectrum of any self-affine measure supported on such a sponge satisfies a variational formula for all real values of $q$. Sufficient conditions are given for the formula to have a closed form. In particular, this is always the case for the box dimension of the sponge. The Frostman and box dimension of these measures is also determined. The result is derived from a more general variational principle for calculating box counting quantities on sponges which resembles the Ledrappier-Young formula for Hausdorff dimension and could be of interest to further study in its own right.
 {{< /spoiler >}}
-- [Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), 28-31 March, ICMS.
+- [Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), 28-31 March, ICMS, UK.
 {{< spoiler text="Talk" >}}
 Title: *Intermediate dimensions of Bedford--McMullen carpets*.   
 Abstract: Intermediate dimensions were recently introduced to provide a spectrum of dimensions interpolating between Hausdorff and box-counting dimensions for fractals where these differ. In particular, the self-affine Bedford-McMullen carpets are a natural case for investigation, but until now only very rough bounds for their intermediate dimensions have been found. The aim of the talk is to present a precise formula for the full spectrum with some intuition behind it. Moreover, to highlight a surprising connection of the intermediate dimensions to the multifractal spectrum and Lipschitz equivalence of these carpets. Based on joint work with Amlan Banaji.
@@ -106,45 +106,11 @@ Only online meetings due to covid.
 
 #### 2020
 
-- [Fractals and Dynamics](https://sites.google.com/view/solomyak60), 13-14 January, Bar-Ilan University.
+- [Fractals and Dynamics](https://sites.google.com/view/solomyak60), 13-14 January, Bar-Ilan University, IL.
 
 #### 2019
 
-- [Thermodynamic Formalism: Dynamical Systems, Statistical Properties and their Applications](https://www.chairejeanmorlet.com/2109.html), 9-13 December, CIRM.
-
-## Conference talks
-
-
-- *The Assouad spectrum of Lalley-Gatzouras carpets*.    
-[Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK; July 3-7, 2023.
-{{< spoiler text="Abstract" >}}
-Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carpets when they introduced this new dimension spectra in 2018. In the talk, I will highlight interesting new phenomena that the spectrum exhibits in the more general Lalley-Gatzouras class. Based on joint work with Jonathan M. Fraser and Amlan Banaji.
-{{< /spoiler >}}
-- *A variational principle for box counting quantities*.    
-[Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform), Bedlewo, PL; May 14-19, 2023.
-{{< spoiler text="Abstract" >}}
-The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
-{{< /spoiler >}}
-- *Various dimensions of self-affine measures on sponges*.   
-[Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), Isle de Porquerolles, FR; September 5-9, 2022.
-{{< spoiler text="Abstract" >}}
-The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
-{{< /spoiler >}}
-- *On the Convergence Rate of the Chaos Game*.    
-[7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), Cornell University, NY, USA; June 4-8, 2022.
-{{< spoiler text="Abstract" >}}
-This talk will address the question: how long does it take for the orbit of the chaos game to reach a certain density inside the attractor of a strictly contracting IFS of which we only assume that its lower dimension is positive? We show that the rate of growth of this cover time is determined by the Minkowski dimension of the push-forward of the shift invariant measure with exponential decay of correlations driving the chaos game. As an application, for Bedford-McMullen carpets, we completely characterize the family of probability vectors that minimize the Minkowski dimension of Bernoulli measures. Based on joint work with B. Bárány and N. Jurga.
-{{< /spoiler >}}
-- *The $L^q$ spectrum of self-affine measures on sponges*.   
-[Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), University of Bristol, UK; May 10-12, 2022.
-{{< spoiler text="Abstract" >}}
-In this talk we consider self-affine sponges in Rd which satisfy a separation condition that gives a certain grid alignment to first level cylinder sets. On the plane these are precisely the Lalley-Gatzouras and Bara\'nski carpets. We show that the $L^q$ spectrum of any self-affine measure supported on such a sponge satisfies a variational formula for all real values of $q$. Sufficient conditions are given for the formula to have a closed form. In particular, this is always the case for the box dimension of the sponge. The Frostman and box dimension of these measures is also determined. The result is derived from a more general variational principle for calculating box counting quantities on sponges which resembles the Ledrappier-Young formula for Hausdorff dimension and could be of interest to further study in its own right.
-{{< /spoiler >}}
-- *Intermediate dimensions of Bedford--McMullen carpets*.   
-[Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), ICMS, Edinburgh, UK; March 28-31, 2022.
-{{< spoiler text="Abstract" >}}
-Intermediate dimensions were recently introduced to provide a spectrum of dimensions interpolating between Hausdorff and box-counting dimensions for fractals where these differ. In particular, the self-affine Bedford-McMullen carpets are a natural case for investigation, but until now only very rough bounds for their intermediate dimensions have been found. The aim of the talk is to present a precise formula for the full spectrum with some intuition behind it. Moreover, to highlight a surprising connection of the intermediate dimensions to the multifractal spectrum and Lipschitz equivalence of these carpets. Based on joint work with Amlan Banaji.
-{{< /spoiler >}}
+- [Thermodynamic Formalism: Dynamical Systems, Statistical Properties and their Applications](https://www.chairejeanmorlet.com/2109.html), 9-13 December, CIRM, FR.
 
 
 ## Seminar talks
