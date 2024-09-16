@@ -32,7 +32,7 @@ external_link: ''
 
 {{< toc >}}
 
-All lists go back to September 2019, prior activities can be found in the [CV](https://ikolossvary.github.io/proba/uploads/CV_KI_0124.pdf).
+All lists go back to September 2019, prior activities can be found in the [CV](https://ikolossvary.github.io/uploads/CV_KI_0124.pdf).
 
 ## Publications
 
@@ -209,7 +209,7 @@ We will survey the different types of self-affine carpets in the literature that
 
 ## Event organisation
 
-- [One-day Meeting on Fractal Geometry in Budapest](https://ikolossvary.github.io/proba/talk/one-day-meeting-on-fractal-geometry-in-budapest/); February 29, 2024. 
+- [One-day Meeting on Fractal Geometry in Budapest](https://ikolossvary.github.io/talk/one-day-meeting-on-fractal-geometry-in-budapest/); February 29, 2024. 
 
 {{< figure src="EUfunding.png" caption="" width="28%" float="none">}}
 {{< figure src="mariecurie.jpg" caption="" width="24%" >}}
