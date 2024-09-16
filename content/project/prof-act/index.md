@@ -66,6 +66,10 @@ Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carp
 {{< /spoiler >}}
 - [Multifractal analysis and self-similarity](https://conferences.cirm-math.fr/2751.html), 26-30 June, CIRM.
 - [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme); [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
+{{< spoiler text="Talk" >}}
+Title: *A variational principle for box counting quantities*.   
+Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+{{< /spoiler >}}
 
 #### 2022
 
