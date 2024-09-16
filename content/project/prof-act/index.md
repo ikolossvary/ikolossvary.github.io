@@ -38,7 +38,7 @@ All lists go back to September 2019, prior activities can be found in the [CV](h
 
 See the [publications page](https://ikolossvary.github.io/publication/) for complete list.
 
-## Conference and workshop participation
+## Conference talks / participation
 
 ### Tentative plans
 
@@ -68,17 +68,33 @@ Abstract: Fraser and Yu determined the Assouad spectrum of Bedford-McMullen carp
 - [School and workshop "Dynamics and fractals"](https://www.impan.pl/en/activities/banach-center/conferences/23-simons-v/programme); [Thermodynamic Formalism: Non-additive Aspects and Related Topics](https://www.impan.pl/en/activities/banach-center/conferences/23-thermoform) at the Simons Semester, 7-19 May, IMPAN/Bedlewo.
 {{< spoiler text="Talk" >}}
 Title: *A variational principle for box counting quantities*.   
-Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the {{< math >}}$L^q${{< /math >}} spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
 {{< /spoiler >}}
 
 #### 2022
 
 - [Fractals and Related Fields IV (FARF)](https://farf4.math.cnrs.fr/), 5-9 September, Isle de Porquerolles.
+{{< spoiler text="Talk" >}}
+Title: *Various dimensions of self-affine measures on sponges*.   
+Abstract: The classical variational principle for topological pressure is an essential tool in thermodynamic formalism. The aim of the talk is to extend the framework into a non-conformal setting where we prove a variational principle for an appropriate pressure that is specifically tailored to calculate box counting quantities. Similarities and differences between the variational principles will be highlighted. As an application, we can derive the $L^q$ spectrum of self-affine measures supported on planar carpets and higher dimensional sponges.
+{{< /spoiler >}}
 - [Geometry of Deterministic and Random Fractals](https://simon60.math.bme.hu/), 27 June - 1 July, Budapest University of Technology and Economics.
 - [Rényi 100](https://conferences.renyi.hu/renyi100), 20-23 June, Hungarian Academy of Sciences.
 - [7th Cornell Conference on Analysis, Probability, and Mathematical Physics on Fractals](https://alexander-teplyaev.uconn.edu/cornell7/speakers/), 4-8 June, Cornell University.
+{{< spoiler text="Talk" >}}
+Title: *On the Convergence Rate of the Chaos Game*.   
+Abstract: This talk will address the question: how long does it take for the orbit of the chaos game to reach a certain density inside the attractor of a strictly contracting IFS of which we only assume that its lower dimension is positive? We show that the rate of growth of this cover time is determined by the Minkowski dimension of the push-forward of the shift invariant measure with exponential decay of correlations driving the chaos game. As an application, for Bedford-McMullen carpets, we completely characterize the family of probability vectors that minimize the Minkowski dimension of Bernoulli measures. Based on joint work with B. Bárány and N. Jurga.
+{{< /spoiler >}}
 - [Workshop on affine and overlapping iterated function systems 2022](http://www.troscheit.eu/workshop2022/index.html), 10-12 May, University of Bristol.
+{{< spoiler text="Talk" >}}
+Title: *The $L^q$ spectrum of self-affine measures on sponges*.   
+Abstract: In this talk we consider self-affine sponges in $R^d$ which satisfy a separation condition that gives a certain grid alignment to first level cylinder sets. On the plane these are precisely the Lalley-Gatzouras and Bara\'nski carpets. We show that the $L^q$ spectrum of any self-affine measure supported on such a sponge satisfies a variational formula for all real values of $q$. Sufficient conditions are given for the formula to have a closed form. In particular, this is always the case for the box dimension of the sponge. The Frostman and box dimension of these measures is also determined. The result is derived from a more general variational principle for calculating box counting quantities on sponges which resembles the Ledrappier-Young formula for Hausdorff dimension and could be of interest to further study in its own right.
+{{< /spoiler >}}
 - [Junior Ergodic Theory Meeting](https://www.icms.org.uk/workshops/2022/junior-ergodic-theory-meeting), 28-31 March, ICMS.
+{{< spoiler text="Talk" >}}
+Title: *Intermediate dimensions of Bedford--McMullen carpets*.   
+Abstract: Intermediate dimensions were recently introduced to provide a spectrum of dimensions interpolating between Hausdorff and box-counting dimensions for fractals where these differ. In particular, the self-affine Bedford-McMullen carpets are a natural case for investigation, but until now only very rough bounds for their intermediate dimensions have been found. The aim of the talk is to present a precise formula for the full spectrum with some intuition behind it. Moreover, to highlight a surprising connection of the intermediate dimensions to the multifractal spectrum and Lipschitz equivalence of these carpets. Based on joint work with Amlan Banaji.
+{{< /spoiler >}}
 
 #### 2021
 
