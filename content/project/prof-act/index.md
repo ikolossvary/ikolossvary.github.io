@@ -209,7 +209,7 @@ We will survey the different types of self-affine carpets in the literature that
 
 ## Event organisation
 
-- [Analysis seminar at the Rényi Institute](/talk/AnalysisSeminar); Fall, 2024.
+- [Analysis seminar at the Rényi Institute](/talk/analysis-seminar-at-the-renyi-institute); Fall, 2024.
 - [Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii); 2-6 September, 2024.
 - [School on Dimension Theory of Fractals](https://erdoscenter.renyi.hu/events/school-dimension-theory-fractals-0); 26-30 August, 2024.
 - [One-day Meeting on Fractal Geometry in Budapest](https://ikolossvary.github.io/talk/one-day-meeting-on-fractal-geometry-in-budapest/); February 29, 2024. 
