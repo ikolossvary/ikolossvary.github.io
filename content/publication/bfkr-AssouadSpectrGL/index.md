@@ -36,7 +36,8 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.07168
-- name: vmi
+- name: zbMATH
+  url: https://zbmath.org/arXiv:2401.07168
 url_project: ''
 
 # Featured image
