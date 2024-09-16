@@ -17,9 +17,9 @@ summary: Webpage for the Analysis Seminar at the Rényi Insitute
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'Thursdays' #'2024-02-29T10:00:00Z'
+#date: '2024-02-29T10:00:00Z'
 #date_end: '2024-02-29T13:00:00Z'
-all_day: true
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-09-15T00:00:00Z'
@@ -60,6 +60,7 @@ url_video: ''
 #  - msca
 ---
 
+The seminar runs Thursdays from 12:15.
 Schedule for Fall of 2024:
 
 - **September 19: Antti Käenmäki (Rényi)**   
