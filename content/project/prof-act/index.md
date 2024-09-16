@@ -36,18 +36,23 @@ All lists go back to September 2019, prior activities can be found in the [CV](h
 
 ## Publications
 
-See the [publications page](https://ikolossvary.github.io/proba/publication/) for complete list.
+See the [publications page](https://ikolossvary.github.io/publication/) for complete list.
 
 ## Conference and workshop participation
 
 ### Tentative plans
 
-- [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu.
-- [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University.
-- [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University.
-- [Fractals and Hyperbolic Dynamical Systems](https://erdoscenter.renyi.hu/articles/fractals-and-hyperbolic-dynamical-systems-2024-fall-aug-dec), Fall 2024, Alfréd Rényi Institute of Mathematics.
+- [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), 23-27 September 2024, Chemnitz
 
 ### Past events
+
+#### 2024
+
+- [Fractals and Hyperbolic Dynamical Systems](https://erdoscenter.renyi.hu/articles/fractals-and-hyperbolic-dynamical-systems-2024-fall-aug-dec), Fall 2024, Alfréd Rényi Institute of Mathematics.
+- [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University.
+- [CMI-HIMR Summer School on Symmetry and Randomness](https://web-eur.cvent.com/event/550de7a6-1ea9-40b2-945e-c596e9a536c0/summary), 15 - 19 July 2024, University of Bristol.
+- [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University.
+- [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu.
 
 #### 2023
 
