@@ -17,9 +17,9 @@ summary: Webpage for the Analysis Seminar at the Rényi Insitute
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: Thursdays #'2024-02-29T10:00:00Z'
+date: 'Thursdays' #'2024-02-29T10:00:00Z'
 #date_end: '2024-02-29T13:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2024-09-15T00:00:00Z'
@@ -62,7 +62,7 @@ url_video: ''
 
 Schedule for Fall of 2024:
 
-- **September 19: Antti Käenmäki**   
+- **September 19: Antti Käenmäki (Rényi)**   
 Title: *Do self-conformal measures on the real line resonate?*   
 {{< spoiler text="Abstract" >}}
 In the 60's, Furstenberg conjectured that if $X,Y \subset [0,1]$ are closed sets invariant under multiplication by integers $p$ and $q \mod 1$, respectively, then for any $s \ne 0$, the resonance inequality
