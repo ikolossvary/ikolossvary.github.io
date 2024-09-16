@@ -36,6 +36,7 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2401.07168
+- name: vmi
 url_project: ''
 
 # Featured image
