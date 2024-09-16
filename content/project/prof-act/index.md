@@ -42,7 +42,7 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 ### Tentative plans
 
-- [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), 23-27 September 2024, Chemnitz
+- [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), 23-27 September 2024, Chemnitz.
 
 ### Past events
 
@@ -89,6 +89,7 @@ Only online meetings due to covid.
 - [Thermodynamic Formalism: Dynamical Systems, Statistical Properties and their Applications](https://www.chairejeanmorlet.com/2109.html), 9-13 December, CIRM.
 
 ## Conference talks
+
 
 - *The Assouad spectrum of Lalley-Gatzouras carpets*.    
 [Fractal Geometry Workshop](https://www.icms.org.uk/workshops/2023/fractal-geometry), ICMS, Edinburgh, UK; July 3-7, 2023.
