@@ -52,6 +52,10 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 - [XLIV Dynamics Days Europe](https://dynamicsdays.eu/bremen2024/), 29 July - 2 August 2024, Constructor University.
 - [CMI-HIMR Summer School on Symmetry and Randomness](https://web-eur.cvent.com/event/550de7a6-1ea9-40b2-945e-c596e9a536c0/summary), 15 - 19 July 2024, University of Bristol.
 - [Workshop on Ergodic Theory and Fractal Geometry](https://sites.google.com/view/workshoponfractalgeometryandet/home), 8-10 July 2024, Loughborough University.
+{{< spoiler text="Talk" >}}
+Title: *Assouad spectrum of Gatzouras-Lalley carpets*.   
+Abstract: The talk will focus on the fine local scaling properties of a class of self-affine fractal sets called Gatzouras-Lalley carpets by looking at its Assouad spectrum. This is a one parameter family of dimensions that interpolate between the box and (quasi-)Assouad dimension of the set. We will show a formula for the Assouad spectrum of all Gatzouras-Lalley carpets obtained by taking the concave conjugate of an explicit piecewise-analytic function combined with a simple parameter change. Time permitting, we will demonstrate a number of novel properties that our formula exhibits for dynamically invariant sets and give some hints of the proof strategy. Based on joint work with A. Banaji, J.M. Fraser and A. Rutar.
+{{< /spoiler >}}
 - [Geometry and Fractals Under the Midnight Sun](https://midnightsun2024.gitlab.io/), 25-28 June 2024, University of Oulu.
 
 #### 2023
