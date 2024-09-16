@@ -17,7 +17,7 @@ summary: Webpage for the Analysis Seminar at the Rényi Insitute
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-02-29T10:00:00Z'
+date: Thursdays '2024-02-29T10:00:00Z'
 date_end: '2024-02-29T13:00:00Z'
 all_day: false
 
@@ -70,18 +70,16 @@ In the 60's, Furstenberg conjectured that if $X,Y \subset [0,1]$ are closed sets
 implies that $\log(p)/\log(q)$ is a rational number. Intuitively, if $\log(p)/\log(q)$ is irrational, then $X$ and $Y$ dissonate by which we mean that the expansions of $X$ and $Y$ in bases $p$ and $q$, respectively, have no common structure. A similar question can be asked for convolutions of two measures. In this talk, which is based on a recent work with B. Bárány, A. Pyörälä, and M. Wu, we answer whether two self-conformal measures in the real line resonate or dissonate.
 {{< /spoiler >}}
 
-- **11:00-11:45 Sascha Troscheit**   
-Title: *Continuum trees of real functions and their graphs*   
+- **September 26: **   
+Title: *TBA*   
 {{< spoiler text="Abstract" >}}
-The Brownian continuum tree (CRT) is an important random metric space that was extensively investigated in the 1990s. It can be constructed by a change of metric from a Brownian excursion function on $[0,1]$. This change of metric can be applied to all continuous circle mappings to give a continuum tree associated with the function.   
-In 2008, Picard proved that analytic properties of the function are connected to the dimension theory of its tree: the upper box dimension of the continuum tree coincides with the variation index of the contour function. We will provide a short and direct proof of Picard's theorem through the study of packings. The methods used will inspire different notions of variations and variation indices, and we will link the dimension theory of the tree with the dimension theory of the graph of its contour function.   
-(Joint with Maik Gröger)
+TBA
 {{< /spoiler >}}
 
-- **12:15-13:00 Michal Rams**   
-Title: *Lyapunov spectrum of matrix cocycles*   
+- **October 3: **   
+Title: *TBA*   
 {{< spoiler text="Abstract" >}}
-I will give an introduction into calculation of the Lyapunov spectrum of $SL(2,R)$ matrix cocycles, presenting results we got with Lorenzo Diaz and Katrin Gelfert.
+TBA
 {{< /spoiler >}}
 
-Organisers: Balázs Bárány, Károly Simon, István Kolossváry
+
