@@ -71,16 +71,26 @@ In the 60's, Furstenberg conjectured that if $X,Y \subset [0,1]$ are closed sets
 implies that $\log(p)/\log(q)$ is a rational number. Intuitively, if $\log(p)/\log(q)$ is irrational, then $X$ and $Y$ dissonate by which we mean that the expansions of $X$ and $Y$ in bases $p$ and $q$, respectively, have no common structure. A similar question can be asked for convolutions of two measures. In this talk, which is based on a recent work with B. Bárány, A. Pyörälä, and M. Wu, we answer whether two self-conformal measures in the real line resonate or dissonate.
 {{< /spoiler >}}
 
-- **September 26: TBA**   
+- **September 26: Mouna Chegaar (BME)**   
+Title: *Trace inequality with Bessel convolution*   
+{{< spoiler text="Abstract" >}}
+Considering potentials defined by the Bessel kernel with Bessel convolution, a Kerman-Sawyer type characterization of the trace inequality is given. As an application, an estimate on the least eigenvalue of Schrödinger-Bessel operators is derived.
+{{< /spoiler >}}
+
+- **October 3: Patrícia Szokol (Debrecen)**   
 Title: *TBA*   
 {{< spoiler text="Abstract" >}}
 TBA
 {{< /spoiler >}}
 
-- **October 3: TBA**   
+- **October 10: Michał Rams (IMPAN)**   
 Title: *TBA*   
 {{< spoiler text="Abstract" >}}
 TBA
 {{< /spoiler >}}
-
+- **October 17: Gergely Kiss (Rényi)**   
+Title: *TBA*   
+{{< spoiler text="Abstract" >}}
+TBA
+{{< /spoiler >}}
 
