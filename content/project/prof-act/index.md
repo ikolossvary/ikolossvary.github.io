@@ -40,11 +40,11 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 ## Conference talks / participation
 
-%### Tentative plans
+<!--- ### Tentative plans
 
 
 
-%### Past events
+### Past events --->
 
 #### 2024
 
