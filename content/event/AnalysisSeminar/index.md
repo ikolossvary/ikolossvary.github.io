@@ -78,9 +78,12 @@ Considering potentials defined by the Bessel kernel with Bessel convolution, a K
 {{< /spoiler >}}
 
 - **October 3: Patrícia Szokol (Debrecen)**   
-Title: *TBA*   
+Title: *Characterization of quasi-arithmetic means without regularity condition*   
 {{< spoiler text="Abstract" >}}
-TBA
+We focus on the characterization theorem of János Aczél (1948) on quasi-arithmetic means. He proved that every continuous, bisymmetric, symmetric, reflexive, strictly monotonic binary map on a proper interval is a quasi-arithmetic mean.
+Our first goal is to show a somewhat surprising result, namely, the purely algebraic bisymmetry property has a regularity improving feature. More precisely, our first theorem shows that the continuity property in the original theorem is redundant. 
+As a continuation of this result, we demonstrate that it can be refined in the way that the symmetry condition can be weakened by assuming symmetry only for a pair of distinct points of an interval.
+The presentation is based on joint papers with Pál Burai and Gergely Kiss.
 {{< /spoiler >}}
 
 - **October 10: Michał Rams (IMPAN)**   
