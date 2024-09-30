@@ -60,7 +60,7 @@ url_video: ''
 #  - msca
 ---
 
-The seminar runs Thursdays from 12:15.
+The seminar runs Thursdays from 12:15 to 13:15.
 Schedule for Fall of 2024:
 
 - **September 19: Antti Käenmäki (Rényi)**   
@@ -96,4 +96,18 @@ Title: *TBA*
 {{< spoiler text="Abstract" >}}
 TBA
 {{< /spoiler >}}
-
+- **October 24: TBA**   
+Title: *TBA*   
+{{< spoiler text="Abstract" >}}
+TBA
+{{< /spoiler >}}
+- **October 31: Alex Rutar (University of Jyväskylä)**   
+Title: *TBA*   
+{{< spoiler text="Abstract" >}}
+TBA
+{{< /spoiler >}}
+- **November 7: TBA**   
+Title: *TBA*   
+{{< spoiler text="Abstract" >}}
+TBA
+{{< /spoiler >}}
