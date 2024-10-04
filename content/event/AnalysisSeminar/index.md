@@ -88,10 +88,9 @@ The presentation is based on joint papers with Pál Burai and Gergely Kiss.
 
 - **October 10: Michał Rams (IMPAN)**   
 Title: *Projections of fractal percolations*   
-{{< spoiler text="Fractal percolations, introduced by Mandelbrot in relation to turbulent flows, are a very nice and natural random fractal constructions. They play in particular an important role in statistical physics, serving as one of only two easy-to-investigate model of phase transitions (the other one being the Ising model of ferromagnetic in dimension 2).
+{{< spoiler text=Abstract" >}}
+Fractal percolations, introduced by Mandelbrot in relation to turbulent flows, are a very nice and natural random fractal constructions. They play in particular an important role in statistical physics, serving as one of only two easy-to-investigate model of phase transitions (the other one being the Ising model of ferromagnetic in dimension 2).
 In the talk I will present results, joint with prof. Simon Karoly from BME, about projections of percolations. In particular, we will be interested in the question whether the projection of a percolation contains an interval. I plan to present the full proof of the simplest case, together with a short tour about the directions this result was generalized later.
-" >}}
-TBA
 {{< /spoiler >}}
 - **October 17: Gergely Kiss (Rényi)**   
 Title: *TBA*   
