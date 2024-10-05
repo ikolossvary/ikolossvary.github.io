@@ -97,7 +97,7 @@ Title: *TBA*
 {{< spoiler text="Abstract" >}}
 TBA
 {{< /spoiler >}}
-- **October 24: TBA**   
+- **October 24: Balka Richárd (Rényi)**   
 Title: *TBA*   
 {{< spoiler text="Abstract" >}}
 TBA
