@@ -93,9 +93,10 @@ Fractal percolations, introduced by Mandelbrot in relation to turbulent flows, a
 In the talk I will present results, joint with prof. Simon Karoly from BME, about projections of percolations. In particular, we will be interested in the question whether the projection of a percolation contains an interval. I plan to present the full proof of the simplest case, together with a short tour about the directions this result was generalized later.
 {{< /spoiler >}}
 - **October 17: Gergely Kiss (Rényi)**   
-Title: *TBA*   
+Title: *The discrete Pompeiu problem on Euclidean spaces*   
 {{< spoiler text="Abstract" >}}
-TBA
+Let $K$ be a nonempty finite subset of the Euclidean space $\mathbb{R}^k$ ($k\geq 2$). In this talk we discuss the solution of the following so-called discrete Pompeiu problem: Is it true that whenever a function $f : \mathbb{R}^k \to \mathbb{C}$ is such that the sum of $f$ on every congruent copy of $K$ is zero, then $f$ vanishes everywhere? Some important consequences of the result will also be presented such as every finite subset of $\mathbb{R}^k$ having at least two elements is a Jackson set.
+This is a joint work with Miklós Laczkovich.
 {{< /spoiler >}}
 - **October 24: Balka Richárd (Rényi)**   
 Title: *TBA*   
