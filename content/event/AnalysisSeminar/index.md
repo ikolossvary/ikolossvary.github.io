@@ -99,9 +99,11 @@ Let $K$ be a nonempty finite subset of the Euclidean space $\mathbb{R}^k$ ($k\ge
 This is a joint work with Miklós Laczkovich.
 {{< /spoiler >}}
 - **October 24: Balka Richárd (Rényi)**   
-Title: *TBA*   
+Title: *Prevalent homeomorphisms of $[0,1]^d$ and fractal dimensions*   
 {{< spoiler text="Abstract" >}}
-TBA
+Prevalence is a measure theoretic concept, which generalizes the notion of ``almost every'' in non-locally compact Polish groups, where there exists no Haar measure. The group $\HomeoId$ is not commutative, and the theory of Haar null sets is notoriously complex for non-abelian groups. 
+In the first part, I will discuss regularity properties of homeomorphisms. For example, a prevalent $h\in \HomeoId$ is singular, namely it maps a full measure set into a set of zero measure. This implies that the graph of a prevalent $h\in \Homeo([0,1])$ is of length $2$, answering a question of Mycielski. This is a joint work with M\'arton Elekes, Viktor Kiss, and M\'ark Po\'or.
+In the second part, fractal dimensions of graphs of homeomorphisms will be considered from the point of view of prevalence. A new and interesting phenomenon is that there is no prevalent value for the dimension of the graph in case of the packing and box dimensions. The case of Hausdorff dimension remains open. Finally and most importantly, I will pose a number of problems. 
 {{< /spoiler >}}
 - **October 31: Alex Rutar (University of Jyväskylä)**   
 Title: *TBA*   
