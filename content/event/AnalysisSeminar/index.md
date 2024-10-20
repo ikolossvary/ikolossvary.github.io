@@ -99,11 +99,14 @@ Let $K$ be a nonempty finite subset of the Euclidean space $\mathbb{R}^k$ ($k\ge
 This is a joint work with Miklós Laczkovich.
 {{< /spoiler >}}
 - **October 24: Balka Richárd (Rényi)**   
-Title: *Prevalent homeomorphisms of $[0,1]^d$ and fractal dimensions*   
+Title: *Lipschitz images and dimensions*   
 {{< spoiler text="Abstract" >}}
-Prevalence is a measure theoretic concept, which generalizes the notion of ``almost every'' in non-locally compact Polish groups, where there exists no Haar measure. The group $\HomeoId$ is not commutative, and the theory of Haar null sets is notoriously complex for non-abelian groups. 
-In the first part, I will discuss regularity properties of homeomorphisms. For example, a prevalent $h\in \HomeoId$ is singular, namely it maps a full measure set into a set of zero measure. This implies that the graph of a prevalent $h\in \Homeo([0,1])$ is of length $2$, answering a question of Mycielski. This is a joint work with M\'arton Elekes, Viktor Kiss, and M\'ark Po\'or.
-In the second part, fractal dimensions of graphs of homeomorphisms will be considered from the point of view of prevalence. A new and interesting phenomenon is that there is no prevalent value for the dimension of the graph in case of the packing and box dimensions. The case of Hausdorff dimension remains open. Finally and most importantly, I will pose a number of problems. 
+We consider the question which compact metric spaces can be obtained as a Lipschitz image of the middle third Cantor set, or more generally, as a Lipschitz image of a subset of a given compact metric space. 
+In the general case we prove that if $A$ and $B$ are compact metric spaces and the Hausdorff dimension of $A$ is bigger than the upper box dimension of $B$, then there exist a compact set $A'\subset A$ and a Lipschitz onto map $f\colon A'\to B$. 
+As a corollary we prove that any `natural' dimension in $\R^n$ must be between the Hausdorff and upper box dimensions.
+We show that if $A$ and $B$ are self-similar sets with the strong separation condition with equal Hausdorff dimension and $A$ is homogeneous, then $A$ can be mapped onto $B$ by a Lipschitz map if and only if $A$ and $B$ are bilipschitz equivalent. 
+For given $\alpha>0$ we also give a characterization of those compact metric spaces that can be obtained as an $\alpha$-H\"older image of a compact subset of $\R$. The quantity we introduce for this turns out to be closely related to the upper box dimension.
+This is a joint work with Tam\'as Keleti. 
 {{< /spoiler >}}
 - **October 31: Alex Rutar (University of Jyväskylä)**   
 Title: *TBA*   
