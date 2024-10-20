@@ -103,9 +103,9 @@ Title: *Lipschitz images and dimensions*
 {{< spoiler text="Abstract" >}}
 We consider the question which compact metric spaces can be obtained as a Lipschitz image of the middle third Cantor set, or more generally, as a Lipschitz image of a subset of a given compact metric space. 
 In the general case we prove that if $A$ and $B$ are compact metric spaces and the Hausdorff dimension of $A$ is bigger than the upper box dimension of $B$, then there exist a compact set $A'\subset A$ and a Lipschitz onto map $f\colon A'\to B$. 
-As a corollary we prove that any `natural' dimension in $\R^n$ must be between the Hausdorff and upper box dimensions.
+As a corollary we prove that any `natural' dimension in $\mathbb{R}^n$ must be between the Hausdorff and upper box dimensions.
 We show that if $A$ and $B$ are self-similar sets with the strong separation condition with equal Hausdorff dimension and $A$ is homogeneous, then $A$ can be mapped onto $B$ by a Lipschitz map if and only if $A$ and $B$ are bilipschitz equivalent. 
-For given $\alpha>0$ we also give a characterization of those compact metric spaces that can be obtained as an $\alpha$-H\"older image of a compact subset of $\R$. The quantity we introduce for this turns out to be closely related to the upper box dimension.
+For given $\alpha>0$ we also give a characterization of those compact metric spaces that can be obtained as an $\alpha$-H\"older image of a compact subset of $\mathbb{R}$. The quantity we introduce for this turns out to be closely related to the upper box dimension.
 This is a joint work with Tam\'as Keleti. 
 {{< /spoiler >}}
 - **October 31: Alex Rutar (University of Jyväskylä)**   
