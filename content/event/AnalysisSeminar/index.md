@@ -98,7 +98,7 @@ Title: *The discrete Pompeiu problem on Euclidean spaces*
 Let $K$ be a nonempty finite subset of the Euclidean space $\mathbb{R}^k$ ($k\geq 2$). In this talk we discuss the solution of the following so-called discrete Pompeiu problem: Is it true that whenever a function $f : \mathbb{R}^k \to \mathbb{C}$ is such that the sum of $f$ on every congruent copy of $K$ is zero, then $f$ vanishes everywhere? Some important consequences of the result will also be presented such as every finite subset of $\mathbb{R}^k$ having at least two elements is a Jackson set.
 This is a joint work with Miklós Laczkovich.
 {{< /spoiler >}}
-- **October 24: Balka Richárd (Rényi)**   
+- **October 24: Richárd Balka (Rényi)**   
 Title: *Lipschitz images and dimensions*   
 {{< spoiler text="Abstract" >}}
 We consider the question which compact metric spaces can be obtained as a Lipschitz image of the middle third Cantor set, or more generally, as a Lipschitz image of a subset of a given compact metric space. 
