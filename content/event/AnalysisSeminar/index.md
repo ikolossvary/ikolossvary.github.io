@@ -105,13 +105,13 @@ We consider the question which compact metric spaces can be obtained as a Lipsch
 In the general case we prove that if $A$ and $B$ are compact metric spaces and the Hausdorff dimension of $A$ is bigger than the upper box dimension of $B$, then there exist a compact set $A'\subset A$ and a Lipschitz onto map $f\colon A'\to B$. 
 As a corollary we prove that any `natural' dimension in $\mathbb{R}^n$ must be between the Hausdorff and upper box dimensions.
 We show that if $A$ and $B$ are self-similar sets with the strong separation condition with equal Hausdorff dimension and $A$ is homogeneous, then $A$ can be mapped onto $B$ by a Lipschitz map if and only if $A$ and $B$ are bilipschitz equivalent. 
-For given $\alpha>0$ we also give a characterization of those compact metric spaces that can be obtained as an $\alpha$-H\"older image of a compact subset of $\mathbb{R}$. The quantity we introduce for this turns out to be closely related to the upper box dimension.
-This is a joint work with Tam\'as Keleti. 
+For given $\alpha>0$ we also give a characterization of those compact metric spaces that can be obtained as an $\alpha$-Hölder image of a compact subset of $\mathbb{R}$. The quantity we introduce for this turns out to be closely related to the upper box dimension.
+This is a joint work with Tamás Keleti. 
 {{< /spoiler >}}
 - **October 31: Alex Rutar (University of Jyväskylä)**   
-Title: *TBA*   
+Title: *Non-convex optimization in fractal geometry*   
 {{< spoiler text="Abstract" >}}
-TBA
+What does non-convex optimization have to do with fractal geometry? I will discuss two such applications: the first, more well known, in multifractal analysis; and the second, more recent, in the dimension theory of dynamically invariant sets. In these two settings, fractal geometric problems can often be reduced to an abstract optimization problem over some measure space. A technical difficulty is that the objective functions which arise are often non-convex and non-smooth. To understand how to work around these difficulties, a key perspective is the parametric geometry of Lagrange multipliers. The new results are based on joint work with (different subsets of) Amlan Banaji, Jonathan Fraser, Thomas Jordan and István Kolossváry.
 {{< /spoiler >}}
 - **November 7: TBA**   
 Title: *TBA*   
