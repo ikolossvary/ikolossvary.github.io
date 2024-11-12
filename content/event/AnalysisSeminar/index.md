@@ -113,8 +113,8 @@ Title: *Non-convex optimization in fractal geometry*
 {{< spoiler text="Abstract" >}}
 What does non-convex optimization have to do with fractal geometry? I will discuss two such applications: the first, more well known, in multifractal analysis; and the second, more recent, in the dimension theory of dynamically invariant sets. In these two settings, fractal geometric problems can often be reduced to an abstract optimization problem over some measure space. A technical difficulty is that the objective functions which arise are often non-convex and non-smooth. To understand how to work around these difficulties, a key perspective is the parametric geometry of Lagrange multipliers. The new results are based on joint work with (different subsets of) Amlan Banaji, Jonathan Fraser, Thomas Jordan and István Kolossváry.
 {{< /spoiler >}}
-- **November 7: TBA**   
-Title: *TBA*   
+- **November 21: Kroó András (Rényi)**   
+Title: *Homogeneous polynomials on convex bodies: Christoffel function, $L^p$ Markov inequalities, Marcinkiewicz-Zygmund type discretization*   
 {{< spoiler text="Abstract" >}}
-TBA
+In this talk we shall consider several extremal problems related to multivariate homogeneous polynomials. The space of real homogeneous polynomials of $d\geq 2$ variables and degree $n$ appears naturally as a fundamental tool in problems related to neural networks and approximation by ridge functions. Our main goal is to study the asymptotic behaviour of Christoffel functions and $L^p$ Markov type estimates for homogeneous polynomials on convex bodies. In order to tackle these questions homogeneous ”needle” polynomials attaining value $1$ at a given point and rapidly decreasing moving away from this point are introduced. These homogeneous needle polynomials play a crucial role in the study of the asymptotics of the Christoffel functions and $L^p$ Markov type estimates, which in turn lead to Marcinkiewicz-Zygmund type discretization results.
 {{< /spoiler >}}
