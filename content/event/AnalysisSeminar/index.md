@@ -121,5 +121,5 @@ In this talk we shall consider several extremal problems related to multivariate
 - **December 5: Cai-Yun Ma (BME)**   
 Title: *One-sided multifractal analysis of Gibbs measures on the line*   
 {{< spoiler text="Abstract" >}}
-In this talk, I will discuss the one-sided multifractal analysis of Gibbs measures supported on a self-conformal set on the real line. More precisely, let $K$ be the attractor of a $C^{1+\delta}$ iterated function system $S = \{S_i\}_{i=1}^m$ on the real line satisfying the strong separation condition. Let $\mu_\psi$ be a Gibbs measure on $K$ associated with a   continuous potential $\psi$. As a main result, we obtain the Hausdorff dimension and packing dimension of the one-sided local dimensions of $\mu_\psi$. The talk is based on joint work with De-Jun Feng.
+In this talk, I will discuss the one-sided multifractal analysis of Gibbs measures supported on a self-conformal set on the real line. More precisely, let $K$ be the attractor of a $C^{1+\delta}$ iterated function system on the real line satisfying the strong separation condition. Let $\mu_{\psi}$ be a Gibbs measure on $K$ associated with a   continuous potential $\psi$. As a main result, we obtain the Hausdorff dimension and packing dimension of the one-sided local dimensions of $\mu_{\psi}$. The talk is based on joint work with De-Jun Feng.
 {{< /spoiler >}}
