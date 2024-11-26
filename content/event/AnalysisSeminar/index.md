@@ -118,3 +118,8 @@ Title: *Homogeneous polynomials on convex bodies: Christoffel function, $L^p$ Ma
 {{< spoiler text="Abstract" >}}
 In this talk we shall consider several extremal problems related to multivariate homogeneous polynomials. The space of real homogeneous polynomials of $d\geq 2$ variables and degree $n$ appears naturally as a fundamental tool in problems related to neural networks and approximation by ridge functions. Our main goal is to study the asymptotic behaviour of Christoffel functions and $L^p$ Markov type estimates for homogeneous polynomials on convex bodies. In order to tackle these questions homogeneous ”needle” polynomials attaining value $1$ at a given point and rapidly decreasing moving away from this point are introduced. These homogeneous needle polynomials play a crucial role in the study of the asymptotics of the Christoffel functions and $L^p$ Markov type estimates, which in turn lead to Marcinkiewicz-Zygmund type discretization results.
 {{< /spoiler >}}
+- **December 5: Cai-Yun Ma (BME)**   
+Title: *One-sided multifractal analysis of Gibbs measures on the line*   
+{{< spoiler text="Abstract" >}}
+In this talk, I will discuss the one-sided multifractal analysis of Gibbs measures supported on a self-conformal set on the real line. More precisely, let $K$ be the attractor of a $C^{1+\delta}$ iterated function system $S = \{S_i\}_{i=1}^m$ on $\mathbb{R}$ satisfying the strong separation condition. Let $\mu_\psi$ be a Gibbs measure on $K$ associated with a   continuous potential $\psi$. As a main result, we obtain the Hausdorff dimension and packing dimension of the one-sided local dimensions of $\mu_\psi$. The talk is based on joint work with De-Jun Feng.
+{{< /spoiler >}}
