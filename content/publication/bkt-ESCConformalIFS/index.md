@@ -1,7 +1,7 @@
 ---
 title: On exponential separation of analytic self-conformal sets on the real line
 authors:
-- Baláys Bárány
+- Balázs Bárány
 - admin
 - Sascha Troscheit
 date: "2025-09-09"
@@ -19,7 +19,7 @@ publication_types: ["article"]
 publication: 'preprint'
 publication_short: ""
 
-abstract: In a recent article, Rapaport showed that the there is no dimension drop for exponentially separated analytic IFSs on the real line. We show that the set of such exponentially separated IFSs in the space of analytic IFSs contains an open and dense set in the C^2 topology. Moreover, we give a sufficient condition for the IFS to be exponentially separated which allows us to construct explicit examples which are exponentially separated. The key technical tool is the introduction of the \textit{dual IFS} which we believe has significant interest in its own right. As an application we also characterise when an analytic IFS can be conjugated to a self-similar IFS.
+abstract: In a recent article, Rapaport showed that the there is no dimension drop for exponentially separated analytic IFSs on the real line. We show that the set of such exponentially separated IFSs in the space of analytic IFSs contains an open and dense set in the $C^2$ topology. Moreover, we give a sufficient condition for the IFS to be exponentially separated which allows us to construct explicit examples which are exponentially separated. The key technical tool is the introduction of the *dual IFS* which we believe has significant interest in its own right. As an application we also characterise when an analytic IFS can be conjugated to a self-similar IFS.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
