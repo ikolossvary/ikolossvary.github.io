@@ -18,7 +18,7 @@ publication_types: ["article"]
 publication: 'preprint'
 publication_short: ""
 
-abstract: This is a survey paper about the fractal percolation process, also known as Mandelbrot percolation. It is intended to give a general breadth overview of more recent research in the topic, but also includes some of the more classical results, for example related to the connectivity properties. Particular emphasis is put on the dimension theory of the limiting set and also on the geometry of the non-trivial connected components in the supercritical regime. In particular, we show that both the Assouad spectrum and intermediate dimensions of the non-trivial connected components are constant equal to its box dimension despite its Hausdorff, box and Assouad dimensions known to being distinct..
+abstract: This is a survey paper about the fractal percolation process, also known as Mandelbrot percolation. It is intended to give a general breadth overview of more recent research in the topic, but also includes some of the more classical results, for example related to the connectivity properties. Particular emphasis is put on the dimension theory of the limiting set and also on the geometry of the non-trivial connected components in the supercritical regime. In particular, we show that both the Assouad spectrum and intermediate dimensions of the non-trivial connected components are constant equal to its box dimension despite its Hausdorff, box and Assouad dimensions known to being distinct.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
