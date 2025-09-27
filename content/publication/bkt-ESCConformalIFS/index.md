@@ -1,9 +1,10 @@
 ---
-title: Recent Progress on Fractal Percolation
+title: On exponential separation of analytic self-conformal sets on the real line
 authors:
+- Baláys Bárány
 - admin
 - Sascha Troscheit
-date: "2025-08-11"
+date: "2025-09-09"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +19,7 @@ publication_types: ["article"]
 publication: 'preprint'
 publication_short: ""
 
-abstract: This is a survey paper about the fractal percolation process, also known as Mandelbrot percolation. It is intended to give a general breadth overview of more recent research in the topic, but also includes some of the more classical results, for example related to the connectivity properties. Particular emphasis is put on the dimension theory of the limiting set and also on the geometry of the non-trivial connected components in the supercritical regime. In particular, we show that both the Assouad spectrum and intermediate dimensions of the non-trivial connected components are constant equal to its box dimension despite its Hausdorff, box and Assouad dimensions known to being distinct.
+abstract: In a recent article, Rapaport showed that the there is no dimension drop for exponentially separated analytic IFSs on the real line. We show that the set of such exponentially separated IFSs in the space of analytic IFSs contains an open and dense set in the C^2 topology. Moreover, we give a sufficient condition for the IFS to be exponentially separated which allows us to construct explicit examples which are exponentially separated. The key technical tool is the introduction of the \textit{dual IFS} which we believe has significant interest in its own right. As an application we also characterise when an analytic IFS can be conjugated to a self-similar IFS.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -26,16 +27,16 @@ abstract: This is a survey paper about the fractal percolation process, also kno
 keyword: semmi
 
 tags:
-- Fractal percolation
-- Dimension theory
-- Connected components
+- Conformal IFS
+- Exponential separation condition
+- Dual IFS
 featured: false
 
 links:
 - name: arXiv
-  url: https://arxiv.org/abs/2508.08150
+  url: https://arxiv.org/abs/2509.07888
 - name: zbMATH
-  url: https://zbmath.org/arXiv:2508.08150
+  url: https://zbmath.org/arXiv:2509.07888
 url_project: ''
 
 # Featured image
