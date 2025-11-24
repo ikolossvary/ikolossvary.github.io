@@ -46,6 +46,10 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 ### Past events --->
 
+#### 2025
+
+- [Perspectives on Ergodic Theory and its Interactions](https://sites.google.com/impan.pl/peti), 23-27 June, IMPAN, PL.
+
 #### 2024
 
 - [Fractal Geometry and Stochastics 7](https://www.tu-chemnitz.de/mathematik/stochastik/fgs7/index.html), 23-27 September 2024, Technical University of Chemnitz, DE.
@@ -122,6 +126,26 @@ Only online meetings due to covid.
 
 ## Seminar talks
 
+- *Dimension drop and the dual iterated function system for analytic self-conformal sets*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); November 13,  2025.
+{{< spoiler text="Abstract" >}}
+The dimension drop conjecture is a long standing open problem in fractal geometry. I will give a brief overview of the question with particular emphasis on a recent result of Rapaport, who confirmed that the exponential separation condition (ESC) implies no dimension drop for analytic self-conformal sets and measures on the real line. In a joint work with Balázs Bárány (BME) and Sascha Troscheit (Uppsala), we show that the ESC is a topologically typical property, moreover, we give an explicit sufficient condition to verify the ESC by introducing a novel concept that we call the dual iterated function system.
+{{< /spoiler >}}
+- *Dimension theory of the connected components in Mandelbrot percolation*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
+{{< spoiler text="Abstract" >}}
+It was shown by Broman, Camia, Joosten and Meester (2013) that there is a strictly positive gap between the values of the Hausdorff and box dimension of the complement of the totally disconnected part of supercritical Mandelbrot percolation. It is also known that its Assouad dimension is the largest possible. For such sets exhibiting dimension gaps there is a meaningful way to interpolate between these notions of dimension using intermediate dimensions and the Assouad spectrum. After a brief overview of dimension theory and Mandelbrot percolation, I will present both dimension spectra of this set based on joint work with Sascha Troscheit.
+{{< /spoiler >}}
+- *Verifying the exponential separation condition for analytic self-conformal sets on the real line*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
+{{< spoiler text="Abstract" >}}
+There is a natural upper bound for the dimension of self-similar sets, usually coined the similarity dimension. On the real line there is a folklore conjecture that the only way that the actual dimension drops below the similarity dimension is if exact overlaps are present. In a breakthrough paper, Hochman confirmed the conjecture assuming the exponential separation condition (ESC). This was recently extended by Rapaport to analytic self-conformal sets on the real line. Together with Balázs Bárány and Sascha Troscheit, we show that the ESC is a topologically typical property, moreover, we give an explicit sufficient condition to verify the ESC by introducing a novel concept that we call the dual iterated function system. I will give an overview of all necessary background before presenting our new results.
+{{< /spoiler >}}
+- *Convergence rate of the chaos game*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
+{{< spoiler text="Abstract" >}}
+The chaos game is a simple iterative process which reconstructs the attractor of an iterated function system from a random sequence of points. It has been very useful in popularising fractal geometry for the wider audiences but has not been studied much with mathematical rigour. The main question we address is how fast does a typical orbit approximate the fractal? We will see that the convergence rate is determined by the Minkowski dimension of the measure generating the random sequence, why it is related to the cover time of Markov chains and look at which measures achieve optimal rate of convergence through some illustrative examples. Based on joint work with Balázs Bárány and Natalia Jurga.
+{{< /spoiler >}}
 - *Applications of the method of types in dimension theory*.   
 [Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); April 18,  2024.
 {{< spoiler text="Abstract" >}}
