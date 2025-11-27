@@ -16,7 +16,7 @@ publishDate: '2025-11-27'
 publication_types:
 - article-journal
 # Publication name and optional abbreviated publication name.
-publication: '*Adv. Math.* 484, 110707, January 2026'
+publication: '*Adv. Math.* 484, 110707'
 
 abstract: We study the fine local scaling properties of a class of self-affine fractal sets called Gatzouras-Lalley carpets. More precisely, we establish a formula for the Assouad spectrum of all Gatzouras-Lalley carpets as the concave conjugate of an explicit piecewise-analytic function combined with a simple parameter change. Our formula implies a number of novel properties for the Assouad spectrum not previously observed for dynamically invariant sets; in particular, the Assouad spectrum can be a non-trivial differentiable function on the entire domain (0,1) and can be strictly concave on open intervals. Our proof introduces a general framework for covering arguments using techniques developed in the context of multifractal analysis, including the method of types from large deviations theory and Lagrange duality from optimisation theory.
 
