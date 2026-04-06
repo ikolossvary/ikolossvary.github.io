@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-I am a research fellow in pure mathematics at the Alfréd Rényi Institute of Mathematics in Budapest, Hungary. I am currently the PI of the STARTING grant \#152587 funded by the National Research Excellence Programme of the Hungarian National Research, Development and Innovation Office. I was previously a Marie Sklodowska-Curie Actions Postdoctoral Fellow. My main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. I have also worked on first passage percolation problems on random graphs. 
+I am a research fellow in pure mathematics at the HUN-REN Alfréd Rényi Institute of Mathematics in Budapest, Hungary. I am currently the Principal Investigator of the STARTING grant \#152587 funded by the National Research Excellence Programme of the Hungarian National Research, Development and Innovation Office. I was previously a Marie Sklodowska-Curie Actions Postdoctoral Fellow. My main area of interest lies in the broad area of dynamical systems and more specifically the dimension theory of fractal sets and measures arising from various contexts. I have also worked on first passage percolation problems on random graphs. 
 {style="text-align: justify;"}
