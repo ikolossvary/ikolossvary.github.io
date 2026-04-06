@@ -46,6 +46,15 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 ### Past events --->
 
+#### 2026
+
+- [Ergodic theory, fractal geometry and Diophantine approximation](https://sites.google.com/impan.pl/simons-cfd2026/conference), 23-27 June, IMPAN, PL.
+- [Fractals and Related Fields 5 (FARF5)](https://farf5.math.cnrs.fr/), 8-12 June, Isle de Porquerolles, FR.
+{{< spoiler text="Talk" >}}
+Title: *Verifying exponential separation for analytic self-conformal sets*.   
+Abstract: The dimension drop conjecture is a long standing open problem in fractal geometry. Rapaport recently extended the seminal work of Hochman on confirming the conjecture for exponentially separated self-similar sets and measures to analytic self-conformal setting on the real line. In a joint work with Balázs Bárány (BME) and Sascha Troscheit (Uppsala), we verify that the exponential separation condition (ESC) is a topologically typical property, moreover, we provide an explicit sufficient condition to verify the ESC. This is done by introducing a novel concept that we call the dual iterated function system which has connections to other problems such as conjugation to self-similar systems.
+{{< /spoiler >}}
+
 #### 2025
 
 - [Perspectives on Ergodic Theory and its Interactions](https://sites.google.com/impan.pl/peti), 23-27 June, IMPAN, PL.
@@ -126,8 +135,13 @@ Only online meetings due to covid.
 
 ## Seminar talks
 
+- *Random orbits on fractals with applications*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/node/4961); April 2,  2026.
+{{< spoiler text="Abstract" >}}
+The chaos game is a simple iterative process which reconstructs the attractor of an iterated function system from a random sequence of points. The goal is to gain information about the fractal set by studying these random orbits, similarly to how properties of dynamical systems can be inferred from the statistical properties of typical orbits. I will give details about some prior joint work with Balázs Bárány and Natalia Jurga about the convergence rate of the chaos game and how it is determined by the Minkowski dimension of the measure generating the random sequence. A collection of open problems and possible applications will also be presented.
+{{< /spoiler >}}
 - *Dimension drop and the dual iterated function system for analytic self-conformal sets*.   
-[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/hu/esemenyek-v1/istvan-kolossvary-applications-of-the-method-of-types-in-dimension-theory); November 13,  2025.
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/node/4730); November 13,  2025.
 {{< spoiler text="Abstract" >}}
 The dimension drop conjecture is a long standing open problem in fractal geometry. I will give a brief overview of the question with particular emphasis on a recent result of Rapaport, who confirmed that the exponential separation condition (ESC) implies no dimension drop for analytic self-conformal sets and measures on the real line. In a joint work with Balázs Bárány (BME) and Sascha Troscheit (Uppsala), we show that the ESC is a topologically typical property, moreover, we give an explicit sufficient condition to verify the ESC by introducing a novel concept that we call the dual iterated function system.
 {{< /spoiler >}}
@@ -240,6 +254,7 @@ We will survey the different types of self-affine carpets in the literature that
 
 ## Event organisation
 
+- [Focused Workshop on Dimension drop for Analytic Iterated Function systems](https://erdoscenter.renyi.hu/events/focused-workshop-dimension-drop-analytic-iterated-function-systems); 6-9 July, 2026.
 - [Analysis seminar at the Rényi Institute](/talk/analysis-seminar-at-the-renyi-institute); Fall, 2024.
 - [Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii); 2-6 September, 2024.
 - [School on Dimension Theory of Fractals](https://erdoscenter.renyi.hu/events/school-dimension-theory-fractals-0); 26-30 August, 2024.
