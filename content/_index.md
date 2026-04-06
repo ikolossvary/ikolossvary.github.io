@@ -56,13 +56,13 @@ sections:
       items:
         - title: Research Fellow
           company: HUN-REN Alfréd Rényi Institute of Mathematics
-          company_url: ''
+          company_url: 'https://www.renyi.hu/en'
           company_logo: renyi_logo
           location: Budapest, Hungary
           date_start: '2024-01-01'
           date_end: ''
           description: |2-
-              Principal Investigator of the project [NewBoxDim](./project/msca) funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
+              Principal Investigator of the project *Random orbits on fractals with applications* funded by the National Research Excellence Programme of the Hungarian NRDI Office. Previously PI of the project [NewBoxDim](./project/msca) funded by the HORIZON-MSCA-2022-PF-01-01 Grant agreement ID: [101109013](https://cordis.europa.eu/project/id/101109013).
              
              [//]: # (Responsibilities include:)
 
