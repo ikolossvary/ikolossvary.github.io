@@ -48,12 +48,12 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 #### 2026
 
-- [Ergodic theory, fractal geometry and Diophantine approximation](https://sites.google.com/impan.pl/simons-cfd2026/conference), 23-27 June, IMPAN, PL.
 - [Fractals and Related Fields 5 (FARF5)](https://farf5.math.cnrs.fr/), 8-12 June, Isle de Porquerolles, FR.
 {{< spoiler text="Talk" >}}
 Title: *Verifying exponential separation for analytic self-conformal sets*.   
 Abstract: The dimension drop conjecture is a long standing open problem in fractal geometry. Rapaport recently extended the seminal work of Hochman on confirming the conjecture for exponentially separated self-similar sets and measures to analytic self-conformal setting on the real line. In a joint work with Balázs Bárány (BME) and Sascha Troscheit (Uppsala), we verify that the exponential separation condition (ESC) is a topologically typical property, moreover, we provide an explicit sufficient condition to verify the ESC. This is done by introducing a novel concept that we call the dual iterated function system which has connections to other problems such as conjugation to self-similar systems.
 {{< /spoiler >}}
+- [Ergodic theory, fractal geometry and Diophantine approximation](https://sites.google.com/impan.pl/simons-cfd2026/conference), 18-22 May, IMPAN, PL.
 
 #### 2025
 
@@ -254,7 +254,7 @@ We will survey the different types of self-affine carpets in the literature that
 
 ## Event organisation
 
-- [Focused Workshop on Dimension drop for Analytic Iterated Function systems](https://erdoscenter.renyi.hu/events/focused-workshop-dimension-drop-analytic-iterated-function-systems); 6-9 July, 2026.
+- [Focused Workshop on dimension drop for analytic Iterated Function Systems](https://erdoscenter.renyi.hu/events/focused-workshop-dimension-drop-analytic-iterated-function-systems); 6-9 July, 2026.
 - [Analysis seminar at the Rényi Institute](/talk/analysis-seminar-at-the-renyi-institute); Fall, 2024.
 - [Workshop on the Geometry of Deterministic and Random Fractals II](https://erdoscenter.renyi.hu/events/workshop-geometry-deterministic-and-random-fractals-ii); 2-6 September, 2024.
 - [School on Dimension Theory of Fractals](https://erdoscenter.renyi.hu/events/school-dimension-theory-fractals-0); 26-30 August, 2024.
