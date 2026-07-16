@@ -48,6 +48,14 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 #### 2026
 
+- [Focused Workshop on dimension drop for analytic Iterated Function Systems](https://erdoscenter.renyi.hu/events/focused-workshop-dimension-drop-analytic-iterated-function-systems); 6-9 July, Edős Center, HU.
+{{< spoiler text="Talk" >}}
+Title: *The dual IFS and exponentially separated analytic IFSs on $\mathbb{R}$*.   
+Abstract:  The talk will introduce the dual IFS of an analytic IFS on the line, some of its main
+properties and show how strong separation of the dual IFS implies exponential separation of the
+original analytic IFS. Plan to show some concrete examples to which it can be applied and also
+some limitations. Based on joint work with Balázs Bárány and Sascha Troscheit.
+{{< /spoiler >}}
 - [Fractals and Related Fields 5 (FARF5)](https://farf5.math.cnrs.fr/), 8-12 June, Isle de Porquerolles, FR.
 {{< spoiler text="Talk" >}}
 Title: *Verifying exponential separation for analytic self-conformal sets*.   
