@@ -143,6 +143,11 @@ Only online meetings due to covid.
 
 ## Seminar talks
 
+- *Orthogonal projections of self-affine sets onto lines*.   
+[BME Fractal Geometry Seminar](https://bmefractalseminar.pages.dev/past/); June 1,  2026.
+{{< spoiler text="Abstract" >}}
+For self-affine sets in $\mathbb{R}^d$ satisfying a strong irreducibility condition, we prove, without requiring any separation assumptions, that the Marstrand—Mattila projection theorem extends to all one-dimensional linear subspaces. As a corollary, for any such set with an upper Minkowski dimension of at most one, we provide a partial positive answer to a folklore open question by showing that its Minkowski dimension exists and is equal to its Hausdorff dimension. Based on joint work with Balázs Bárány and Antti Käenmäki.
+{{< /spoiler >}}
 - *Random orbits on fractals with applications*.   
 [Analysis Seminar at the Rényi Institute](https://www.renyi.hu/node/4961); April 2,  2026.
 {{< spoiler text="Abstract" >}}
