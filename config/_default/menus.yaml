@@ -17,7 +17,7 @@ main:
     url: './project/msca'
     weight: 40
   - name: CV
-    url: uploads/CV_KI_0124.pdf
+    url: uploads/CV_KI_1026.pdf
     weight: 50
   - name: Contact
     url: '#contact'

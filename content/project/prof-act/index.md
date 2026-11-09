@@ -32,7 +32,7 @@ external_link: ''
 
 {{< toc >}}
 
-All lists go back to September 2019, prior activities can be found in the [CV](https://ikolossvary.github.io/uploads/CV_KI_0124.pdf).
+All lists go back to September 2019, prior activities can be found in the [CV](https://ikolossvary.github.io/uploads/CV_KI_1026.pdf).
 
 ## Publications
 
