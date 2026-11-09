@@ -48,6 +48,7 @@ See the [publications page](https://ikolossvary.github.io/publication/) for comp
 
 #### 2026
 
+- [Interactions between fractal geometry, harmonic analysis, and dynamical systems](https://www.mittag-leffler.se/activities/interactions-between-fractal-geometry-harmonic-analysis-and-dynamical-systems/), 25-31 October, Institut Mittag-Leffler, SE.
 - [Focused Workshop on dimension drop for analytic Iterated Function Systems](https://erdoscenter.renyi.hu/events/focused-workshop-dimension-drop-analytic-iterated-function-systems); 6-9 July, Edős Center, HU.
 {{< spoiler text="Talk" >}}
 Title: *The dual IFS and exponentially separated analytic IFSs on $\mathbb{R}$*.   
@@ -143,6 +144,23 @@ Only online meetings due to covid.
 
 ## Seminar talks
 
+- *Assouad-type dimensions of fractal percolation on anisotropic grid*.   
+[BME Fractal Geometry Seminar](https://bmefractalseminar.pages.dev/past/); November 16,  2026.
+{{< spoiler text="Abstract" >}}
+In joint work with Sascha Troscheit (Uppsala) we study supercritical fractal percolation with inhomogeneous retention probabilities on the $M\times N$ anisotropic grid ($M<N$). Conditioned on survival of the limit set, we determine its Assouad dimension and its full Assouad spectrum including detailed description in the critical windows. Our results show two interesting phenomena.
+1. The almost sure constant value of the Assouad dimension exhibits a nuanced dichotomy depending on whether all its columns are subcritical or not. In particular, it is not always full even for homogeneous retention probabilities.
+2. In the presence of at least one supercritical column, the Assouad spectrum has two non-trivial dimension windows, which is the first non-pathological example showcasing this behaviour.
+{{< /spoiler >}}
+- *Assouad dimension of fractal percolation*.   
+[Seminar series in Probability and Combinatorics at Uppsala University](https://www.uu.se/en/department/mathematics/research/probability-theory-and-combinatorics/seminar-series-in-probability-and-combinatorics); November 2,  2026.
+{{< spoiler text="Abstract" >}}
+The Assouad dimension measures the size of the "thickest" part of a set. It is closely linked to embeddability and the doubling property of metric spaces. Several examples in random geometry have maximal Assouad dimension. This is true for fractal percolation on the MxM grid. What about the anisotrpic MxN grid? It is natural to expect maximal dimension here as well, however, in joint work with Sascha Troscheit we show that this is not true. During the talk the obstruction to full dimension will be made clear and time permitting I will also talk about the Assouad spectrum.
+{{< /spoiler >}}
+- *On the existence of the box dimension of a set*.   
+[Analysis Seminar at the Rényi Institute](https://www.renyi.hu/en/events/szeminarium/istvan-kolossvary-existence-box-dimension-set); October 1,  2026.
+{{< spoiler text="Abstract" >}}
+The box counting dimension of a set is defined through a limit which may or may not exist. There is a folklore conjecture that this limit exists for all self-affine sets. Counterexamples are known if one weakens strict self-affinity. I will survey some of these interesting constructions and then turn to a recent joint work with Balázs Bárány and Antti Käenmäki in which we give further strong support for the conjecture. It is derived as the corollary of the main result of the paper: an all-directions Marstrand-Mattila type projection theorem onto lines for self-affine measures and sets in $\mathbb{R}^d$.
+{{< /spoiler >}}
 - *Orthogonal projections of self-affine sets onto lines*.   
 [BME Fractal Geometry Seminar](https://bmefractalseminar.pages.dev/past/); June 1,  2026.
 {{< spoiler text="Abstract" >}}
